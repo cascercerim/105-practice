@@ -1,0 +1,54 @@
+body{
+  font-family: 'Raleway', sans-serif;
+  color: #2b2b2b;
+  background-color: navy;
+}
+
+.maria-advice{
+  width: 1200px;
+  margin: 0 auto;
+  float: left;
+}
+
+.advice{
+  width: 700px;
+  float: left;
+  padding: 100px;
+  margin-left: 200px;
+  background-color: #717474;
+
+
+}
+
+.bottom {
+  width:  1200px;
+  float:left;
+}
+
+a{
+  float: right;
+  color: #ffffff;
+}
+p{
+  color: white;
+  font-size: 13px, bold;
+
+}
+
+h1{
+  color: pink;
+  margin-left: 150px;
+  position: fixed;
+
+}
+
+h4{
+  color:white;
+  font-size: 23px;
+  padding: 0,75px;
+  text-align: center;
+}
+footer, p{
+  text-align: center;
+
+}
