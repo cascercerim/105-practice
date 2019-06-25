@@ -1,0 +1,36 @@
+body{
+    background: lightblue;
+}
+a{
+    color: black;
+    margin: 50px;
+}
+h1{
+    font-family: 'Mali', cursive;
+    font-weight: 100;
+    color: grey;
+    text-align: center;
+    border: 3px white solid;
+    background: lightgrey;
+}
+
+.advice{
+    color: white;
+    padding: 100px;
+    margin: 100px;
+    background: lightgray;
+    border: 10px white solid;
+}
+
+h4{
+    font-family: 'Mali', cursive;
+    font-weight: 200;
+    font-size: 17px;
+}
+p{
+    font-family: 'Open Sans Condensed', sans-serif;
+    letter-spacing: 0.1em;
+}
+.copy{
+    color: antiquewhite;
+}
